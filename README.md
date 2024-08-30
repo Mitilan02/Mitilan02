@@ -1,6 +1,6 @@
 # 💻 Mitilan Depak - Java Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=sathikofficial2028&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=mitilan02&color=blue)
 
 <img src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif">
 
@@ -11,8 +11,8 @@
 
 
 ## 🌐 Contact
-- [![Email](https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000)](mailto:sathikofficial2028@gmail.com)  [![LinkedIn](https://img.icons8.com/?size=100&id=XRDimtpq5vCY&format=png&color=000000)](https://www.linkedin.com/in/mohamedsathik28)
-- **Phone**: +91-9488517837
+- [![Email](https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000)](mailto:mitilan02@gmail.com)  [![LinkedIn](https://img.icons8.com/?size=100&id=XRDimtpq5vCY&format=png&color=000000)](https://www.linkedin.com/in/mitilandepak)
+- **Phone**: +91-8220617220
 
 ## 🚀 About Me
 I am an enthusiastic DevOps Engineer with a strong foundation in Linux, Docker, Git, shell scripting, and cloud technologies. As a certified Red Hat System Administrator and Engineer, I bring problem-solving skills and a collaborative mindset to every project. My goal is to secure an entry-level position where I can apply my skills and contribute to the growth of the company while gaining practical experience.
