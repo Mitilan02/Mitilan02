@@ -15,7 +15,7 @@
 - **Phone**: +91-8220617220
 
 ## 🚀 About Me
-Motivated BE graduate in Computer Science and Engineering with proficiency in web development and Java programming. Solid understanding of software development principles and experience in designing and maintaining web applications. Strong problem-solving skills, collaborative mindset, and a passion for continuous learning. Seeking an entry-level position to apply technical expertise and contribute to innovative projects in a dynamic organization.
+  Motivated BE graduate in Computer Science and Engineering with proficiency in web development and Java programming. Solid understanding of software development principles and experience in designing and maintaining web applications. Strong problem-solving skills, collaborative mindset, and a passion for continuous learning. Seeking an entry-level position to apply technical expertise and contribute to innovative projects in a dynamic organization.
 
 ## 🛠️ Technical Skills
 - **Operating Systems**: Red Hat Linux, Ubuntu
