@@ -18,38 +18,41 @@
   Motivated BE graduate in Computer Science and Engineering with proficiency in web development and Java programming. Solid understanding of software development principles and experience in designing and maintaining web applications. Strong problem-solving skills, collaborative mindset, and a passion for continuous learning. Seeking an entry-level position to apply technical expertise and contribute to innovative projects in a dynamic organization.
 
 ## 🛠️ Technical Skills
-- **Languages**: Java
+- **Programming Languages**: Java
   - ![Java](https://img.icons8.com/?size=100&id=FRRACRKRsw2s&format=png&color=000000)
 - **Web Development**: Html, CSS, Javascript, React
   - ![Html](https://img.icons8.com/?size=100&id=20909&format=png&color=000000) ![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000) ![Javascript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000) ![React](https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000)
+- **Database**: MYSQL, MongoDB
+  - ![MYSQL](https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000) ![MongoDB](https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000)
 - **Version Control**: Git
   - ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
 
 ## 📚 Certifications
-- **Red Hat Certified System Administrator**
-  - Certification ID: 230-056-111 (2023 - 2026)
-- **Red Hat Certified Engineer**
-  - Certification ID: 230-056-111 (2023 - 2026)
-- **Cisco**
-  - Introduction to Cyber Security
-  - Introduction to Network
+- **MongoDB Certified DBA**
+  - Certification ID: MDB2kqkxrzxt7
+- **Cybersecurity Analyst Job Simulation**
+  - Certification ID:  L9jt2NEH8KhLsyvsD
+- **HackerRank**
+  - Frontend Developer(react)
+  - Java (Basic)
+  - SQL (Basic)
+  - Javascript (Basic)
+  - CSS (Basic)
 
-## 🏆 Projects
-### 🔍 PDF Summarizer
-Implemented using natural language processing techniques, this project summarizes PDF documents to provide concise information.
-
-### 🦯 Smart Blind Stick
-Developed using AWS services and integrated with machine learning algorithms, this project aims to assist visually impaired individuals.
+## 🏆 Project
+### 🔍 Healthcare Chatbot
+A machine Learning java chatbot implemented using random forest classifier, this project checks the symptom and return the disease and it's diagnosis.
 
 ## 📈 Skill Matrix
-- **Git**: Expert
-- **Docker**: Expert
-- **Linux Administration**: Expert
-- **Ansible**: Proficient
-- **Shell Scripting**: Proficient
-- **CI/CD**: Proficient
-- **AWS**: Proficient
-- **Troubleshooting and Support**: Proficient
+- **Html**: Expert
+- **CSS**: Expert
+- **ReactJs**: Intermediate
+- **Javascript**: Intermediate
+- **Java**: Proficient
+- **MySQL**: Proficient
+- **MongoDB**: Proficient
+- **Git**: Proficient
+- **Technical Support**: Proficient
 
 ## 📝 Declaration
 I hereby declare that the above-mentioned information is true to the best of my knowledge.
