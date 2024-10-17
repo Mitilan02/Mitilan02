@@ -21,10 +21,7 @@
 - **Languages**: Java
   - ![Java](https://img.icons8.com/?size=100&id=FRRACRKRsw2s&format=png&color=000000)
 - **Web Development**: Html, CSS, Javascript, React
-  - ![Html](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
-  - ![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
-  - ![Javascript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
-  - ![React](https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000)
+  - ![Html](https://img.icons8.com/?size=100&id=20909&format=png&color=000000) ![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000) ![Javascript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000) ![React](https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000)
 - **Version Control**: Git
   - ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
 
