@@ -11,28 +11,17 @@
 
 
 ## 🌐 Contact
-- [![Email](https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000)](mailto:mitilan02@gmail.com)  [![LinkedIn](https://img.icons8.com/?size=100&id=XRDimtpq5vCY&format=png&color=000000)](https://www.linkedin.com/in/mitilandepak)
+- [![Email](https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000)](mailto:mitilan02@gmail.com)  [![LinkedIn](https://img.icons8.com/?size=100&id=XRDimtpq5vCY&format=png&color=000000)](https://www.linkedin.com/in/mitilan-depak-063962239/)
 - **Phone**: +91-8220617220
 
 ## 🚀 About Me
   Motivated BE graduate in Computer Science and Engineering with proficiency in web development and Java programming. Solid understanding of software development principles and experience in designing and maintaining web applications. Strong problem-solving skills, collaborative mindset, and a passion for continuous learning. Seeking an entry-level position to apply technical expertise and contribute to innovative projects in a dynamic organization.
 
 ## 🛠️ Technical Skills
-- **Operating Systems**: Red Hat Linux, Ubuntu
-  - ![Red Hat](https://img.icons8.com/?size=100&id=h2fWCnoQXWPf&format=png&color=DB0026) ![Ubuntu](https://img.icons8.com/?size=100&id=63208&format=png&color=000000)
-- **Containerization**: Docker, Kubernetes
-  - ![Docker](https://img.icons8.com/?size=100&id=bf6MKm9Uf7uu&format=png&color=000000) ![Kubernetes](https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000)
+- **Languages**: Java
+  - ![Java](https://icons8.com/icon/FRRACRKRsw2s/java)
 - **Version Control**: Git
   - ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
-- **Scripting**: Shell Scripting, Bash
-  - ![Shell Scripting](https://img.icons8.com/?size=100&id=WbRVMGxHh74X&format=png&color=000000)
-- **CI/CD Tools**: Jenkins, Ansible, Terraform
-  - ![Jenkins](https://img.icons8.com/?size=100&id=39292&format=png&color=000000) ![Ansible](https://img.icons8.com/?size=100&id=SJNUZD3A4el4&format=png&color=000000) ![Terraform](https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000)
-- **Cloud Platforms**: AWS, Azure
-  - ![AWS](https://img.icons8.com/?size=100&id=mHi46t5vguiz&format=png&color=000000) ![Azure](https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000)
-- **Monitoring**: Familiarity with cloud-based monitoring using AWS tools
-- **Languages**: Basic Python
-  - ![Python](https://img.icons8.com/?size=100&id=YX03OUiHE3rz&format=png&color=000000)
 
 ## 📚 Certifications
 - **Red Hat Certified System Administrator**
