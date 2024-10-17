@@ -19,7 +19,7 @@
 
 ## 🛠️ Technical Skills
 - **Languages**: Java
-  - ![Java](https://icons8.com/icon/FRRACRKRsw2s/java)
+  - ![Java](https://img.icons8.com/?size=100&id=FRRACRKRsw2s&format=png&color=000000)
 - **Version Control**: Git
   - ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
 
