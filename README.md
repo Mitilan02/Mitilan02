@@ -40,7 +40,7 @@
   - CSS (Basic)
 
 ## 🏆 Project
-### 🔍 Healthcare Chatbot
+### 🤖 Healthcare Chatbot
 A machine Learning java chatbot implemented using random forest classifier, this project checks the symptom and return the disease and it's diagnosis.
 
 ## 📈 Skill Matrix
